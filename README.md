@@ -10,3 +10,7 @@
 # repo should contain 2 files: 
 ## the python file (.py) 
 ## the markdown file (.md) 
+### .md used to explain how the python files are automated using crontab 
+ 
+
+# https://crontab.guru for making required fields for repetative task much more easier
